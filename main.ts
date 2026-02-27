@@ -2,7 +2,7 @@
  *
  * Created by: Kyle Matthew
  * Created on: Feb 2026
- * This program turn the LED on and off using A and B buttons.
+ * This program turns an LED on a breadboard on and off.
 */
 
 // setup
