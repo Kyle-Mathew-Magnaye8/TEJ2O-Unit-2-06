@@ -6,7 +6,6 @@ This module shows the LED on and off using A and B buttons.
 
 from microbit import *
 
-
 display.clear()
 display.show(Image.HAPPY)
 
